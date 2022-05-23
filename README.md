@@ -1,6 +1,6 @@
 # EMNIST_classify
 
-you can download dataset here. (EMNISTE handwrite dataset)
+you can download dataset here. (EMNIST handwrite dataset)
 https://www.kaggle.com/datasets/crawford/emnist
 
 And, you can download dataset (Next Word)
