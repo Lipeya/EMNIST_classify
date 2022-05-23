@@ -54,8 +54,10 @@ LSTM 학습 데이터로는 저작권이만료된 Gutenberg을 합쳐서 사용�
 
 CNN, VGG16, RESNET 등의 이미지를 처리하는 모델의 출력과 사전에 LSTM으로 산출한 실제 레이블에 대한 score점수를 처리하는 모델의 출력을 연접한 후 softmax를 적용해서 classification했습니다. 중간에 activation함수는 relu를 사용했습니다.
 
-- Letters에 대한 결과\n
-![image](https://user-images.githubusercontent.com/46295027/169750901-55a7fa26-642e-408b-a477-f12c85c09fde.png)
+- Letters에 대한 결과
+    -CNN 90% -> 95%
+    -VGG16 92% -> 96%
+    -RESNET 93% -> 95%
 
 
 - Balanced에 대한 결과
